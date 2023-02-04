@@ -35,10 +35,3 @@
 <img align="left" src = "https://profile-counter.glitch.me/arush-sal/count.svg" alt ="Loading"> -->
 
 <br />
-
-<div align="center">
-  <p>
-    <code><img height="20" src="https://github.com/SecretStar0920/SecretStar0920/blob/master/email.jpg"></code> dev.secretstar@gmail.com <br />
-    <code><img height="20" src="https://github.com/SecretStar0920/SecretStar0920/blob/master/telegram.jpg"></code> https://t.me/secretstar0920 <br />    
-  </p>
-</div>
