@@ -6,7 +6,8 @@
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SecretStar0920&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perseus6&langs_count=10&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=perseus6&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
 </p>
 <!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SecretStar0920&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
