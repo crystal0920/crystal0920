@@ -6,8 +6,8 @@
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedreamer1&langs_count=10&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
-<img src="https://github-readme-stats.vercel.app/api?username=codedreamer1&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdevlegend&langs_count=10&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=cdevlegend&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
 </p>
 <!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cdevlegend&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
