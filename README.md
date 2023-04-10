@@ -1,20 +1,13 @@
-## <img height="60" width="60" src="https://github.com/luckypanda777/Luckypanda777/blob/main/img/hello.gif" /> Creative Idea & Geat Passion
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Front-end+Developer;Senior+Back-end+Developer;Senior+Blockchain+Deveoper)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Deveoper)](https://git.io/typing-svg)
 
 ## Skills
-
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS
 - 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP
 - 📲 Mobile: Android, React Native, Ionic, Flutter
-- 🪟 Windows: WPF, MVVM
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
-- 🎮 Gaming: Unity 3D, AR, VR
 - ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
-- 📫 Interesting : AI, BigData, Machine Learning
 ## Tools
-
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
