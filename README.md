@@ -5,13 +5,13 @@
 ## Skills
 
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS
-- 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Loopback, Nestjs, Ruby on Rails
-- 📲 Mobile: Android, Java, Kotlin, iOS, Swift, Objective-C, React Native, Ionic
+- 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP
+- 📲 Mobile: Android, React Native, Ionic, Flutter
 - 🪟 Windows: WPF, MVVM
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
 - 🎮 Gaming: Unity 3D, AR, VR
-- ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Rust, Haskell
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Ruby
+- ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity
+- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
 - 📫 Interesting : AI, BigData, Machine Learning
 ## Tools
 
